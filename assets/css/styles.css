@@ -82,6 +82,12 @@ p {
   margin-top: 0;
   margin-bottom: 0;
 }
+
+.profile {
+  width: 160px;
+  height: 160px;
+}
+
 .sidebar-wrapper .profile {
   margin-bottom: 15px;
 }
